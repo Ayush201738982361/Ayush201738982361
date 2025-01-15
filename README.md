@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate MERN Stack Dev</h3>
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" height="80" style="filter: invert(1);" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="80" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush201738982361&label=Profile%20views&color=0e75b6&style=flat" alt="ayush201738982361" /> </p>
