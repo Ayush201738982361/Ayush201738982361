@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ayush S</h1>
-<h3 align="center">My Tech Stack</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="150" width="200"/>
-   <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" height="120" width="200" style="border-radius: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="150" width="200"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="150" width="200"/>
+![Header](./github-header-image.png)
+<img align="right" alt="Coding" height="300" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ2aHM2NWRrc2dtaXZjdmJvYWE4dzBuZTVyd21hNjI0NHprMzNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
+<h3 align="left">My Tech Stack</h3>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; gap: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="100" width="150" />
+    <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" height="80" width="150" style="border-radius: 10px;" />
+  </div>
+  <div style="display: flex; gap: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="100" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="100" width="150" />
+  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush201738982361&label=Profile%20views&color=0e75b6&style=flat" alt="ayush201738982361" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush201738982361" alt="ayush201738982361" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush201738982361" alt="ayush201738982361" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushnair225933" target="blank"><img src="https://img.shields.io/twitter/follow/ayushnair225933?logo=twitter&style=for-the-badge" alt="ayushnair225933" /></a> </p>
 
