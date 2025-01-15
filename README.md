@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayush S</h1>
-<h3 align="center">A Passionate MERN Stack Dev</h3>
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="150" width="200"/>
