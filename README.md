@@ -2,10 +2,16 @@
 <h3 align="center">A Passionate MERN Stack Dev</h3>
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="80" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" height="80" style="filter: invert(1);" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="80" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="80" />
+  <h3 align="center">My Tech Stack</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="150" width="200"/>
+   <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" height="120" width="200" style="border-radius: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="150" width="200"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="150" width="200"/>
+</p>
+
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="150" width="200"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="150" width="200"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush201738982361&label=Profile%20views&color=0e75b6&style=flat" alt="ayush201738982361" /> </p>
