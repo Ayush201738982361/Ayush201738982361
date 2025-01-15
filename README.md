@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate MERN Stack Dev</h3>
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
-  <h3 align="center">My Tech Stack</h3>
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="150" width="200"/>
    <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" height="120" width="200" style="border-radius: 15px;"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="150" width="200"/>
