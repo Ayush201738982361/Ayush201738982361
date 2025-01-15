@@ -1,4 +1,8 @@
 ![Header](./github-header-image.png)
+---
+### 👋 About Me
+Hi there! I'm Ayush ,  a passionate MERN Stack Developer with a knack for creating scalable, user-friendly web applications. My journey in web development revolves around crafting intuitive interfaces and efficient backend systems.
+---
 <img align="right" alt="Coding" height="300" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ2aHM2NWRrc2dtaXZjdmJvYWE4dzBuZTVyd21hNjI0NHprMzNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 <h3 align="left">My Tech Stack</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
