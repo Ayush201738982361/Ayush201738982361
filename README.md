@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A Passionate MERN/Full Stack Developer</h3>
 <p>Hi there , I'm Ayush ! I'm a passionate Computer Science student with a keen interest in creating dynamic and responsive web applications. My expertise lies in learning MERN stack (MongoDB, Express.js, React.js, and Node.js), which allows me to build full-stack applications that are both powerful and scalable.</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,flask,java,cpp,c,php,mysql,postman,kali,linux)](https://github.com/Ayush201738982361
+)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush201738982361" alt="ayush201738982361" /></a> </p>
 
