@@ -84,5 +84,5 @@ Hi there, I'm Ayush! I'm a passionate Computer Science student with a keen inter
 
 <h3 align="left">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayush201738982361&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush201738982361&theme=react-dark" alt="Contribution Graph" />
 </p>
