@@ -56,7 +56,6 @@ Hi there, I'm Ayush! I'm a passionate Computer Science student with a keen inter
 
 <h3 align="left">📬 Contact Me</h3>
 - Email: **ayushnair87@gmail.com**  
-- Fun fact: **I like lifting weights 🏋️**
 
 ---
 
