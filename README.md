@@ -39,7 +39,7 @@ Hi there, I'm Ayush! I'm a passionate Computer Science student with a keen inter
 ---
 
 <h3 align="left">🔭 Projects</h3>
-- Currently working on: [BookER](https://github.com/Ayush201738982361/BookER.git) - A dynamic booking platform built using the MERN stack.
+- Currently working on: [BookER](https://github.com/Ayush201738982361/BookER.git) - A dynamic platform for resale of second hand books built using the MERN stack.
 
 ---
 
