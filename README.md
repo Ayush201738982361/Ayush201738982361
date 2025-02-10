@@ -64,7 +64,7 @@ Hi there, I'm Ayush! I'm a passionate Computer Science student with a keen inter
   <a href="https://twitter.com/ayushnair225933" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
   </a>
-  <a href="https://linkedin.com/in/ayushnair225933" target="blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
   <a href="https://instagram.com/ayush_nair_360" target="blank">
