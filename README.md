@@ -44,7 +44,7 @@ Hi there, I'm Ayush! I'm a passionate Computer Science student with a keen inter
 ---
 
 <h3 align="left">📚 Currently Learning</h3>
-- React.js and advanced front-end development techniques.
+- AWS
 
 ---
 
