@@ -1,6 +1,6 @@
 # Ayush Nair
 
-**Software Engineer**  
+**Software Developer**  
 Building performant, user-centric applications with JavaScript.
 
 ---
