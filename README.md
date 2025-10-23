@@ -1,4 +1,4 @@
-# Ayush Nair
+Se# Ayush Nair
 
 **Software Developer**  
 Building performant, user-centric applications with JavaScript.
@@ -6,7 +6,7 @@ Building performant, user-centric applications with JavaScript.
 ---
 
 ### 🔍 Current Focus
-[**Secure.ai**](https://github.com/Arnav181/Secure.ai)  
+[**Zapt**](https://github.com/Ayush201738982361/zapt)  
 Contributing to security infrastructure for AI applications  
 • API hardening • Auth protocols • Performance optimization
 
