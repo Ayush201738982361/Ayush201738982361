@@ -1,4 +1,4 @@
-Se# Ayush Nair
+
 
 **Software Developer**  
 Building performant, user-centric applications with JavaScript.
